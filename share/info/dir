@@ -15,6 +15,4 @@ File: dir,	Node: Top	Dies ist der Beginn des INFO-Baums
 * Menu:
 
 Software development
-* g++: (gcc).                   The GNU C++ compiler.
-* gcc: (gcc).                   The GNU Compiler Collection.
-* gcov: (gcc) Gcov.             'gcov'--a test coverage program.
+* gccint: (gccint).             Internals of the GNU Compiler Collection.
